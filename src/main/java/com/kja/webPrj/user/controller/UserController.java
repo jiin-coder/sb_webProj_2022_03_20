@@ -1,4 +1,4 @@
-package com.kja.webPrj;
+package com.kja.webPrj.user.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
